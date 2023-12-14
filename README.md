@@ -12,7 +12,6 @@ Welcome to GitHub profile! I'm a passionate developer with a strong affinity for
 - Next JS / React JS
 - Node JS
 - Go Lang
-- 
 - Mind Control (Git, GitHub)
 
 ### GitHub Stats
