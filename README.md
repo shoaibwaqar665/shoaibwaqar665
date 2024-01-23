@@ -31,6 +31,6 @@ Welcome to GitHub profile! I'm a passionate developer with a strong affinity for
 You can reach out to me through the following channels:
 
 - Email: shoaib.waqar665@gmail.com
-- LinkedIn: https://pk.linkedin.com/in/shoaibwaqar665
+- LinkedIn: https://www.linkedin.com/in/shoaib-waqar-sw665/
 
 May the Force be with you! ✨🚀✨
