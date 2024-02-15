@@ -2,12 +2,13 @@
 <!--<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRpc3ZpdGY3aXhwMnM0bjl3aHptZmVjcmNtZHdrbGs3czRubnBnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2w5MMNvg70MrQ0I2DR/giphy.gif" alt="Galaxy Background" style="max-width: 100%; height: auto; width: 800px; max-height: 300px; object-fit: cover;" />
 </div>-->
-<div align="center">
+<!--<div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*GjvouQXgr4ujzMI4.gif" alt="Galaxy Background" style="max-width: 100%; height: 50%; width: 50%; max-height: 300px; object-fit: cover;" />
-</div>
+</div>-->
 ## Hi there, I am Shoaib Waqar! 👋
 
 Welcome to GitHub profile! I'm a passionate developer with a strong affinity for the Force. Feel free to explore my repositories and join me on my coding journey across the galaxy.
+<a href="https://app.daily.dev/shoaibwaqar665"><img src="https://api.daily.dev/devcards/v2/mUdXS30yFXnwImnFFsPKG.png?type=default&r=28a" width="356" alt="shoaibwaqar665's Dev Card"/></a>
 
 ### Skills and Tools
 
