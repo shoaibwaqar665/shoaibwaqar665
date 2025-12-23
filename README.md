@@ -1,37 +1,68 @@
-<!-- Star Wars Header -->
-<!--<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRpc3ZpdGY3aXhwMnM0bjl3aHptZmVjcmNtZHdrbGs3czRubnBnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2w5MMNvg70MrQ0I2DR/giphy.gif" alt="Galaxy Background" style="max-width: 100%; height: auto; width: 800px; max-height: 300px; object-fit: cover;" />
-</div>-->
-<!--<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*GjvouQXgr4ujzMI4.gif" alt="Galaxy Background" style="max-width: 100%; height: 50%; width: 50%; max-height: 300px; object-fit: cover;" />
-</div>-->
-## Hi there, I am Shoaib Waqar! 👋
+## Shoaib Waqar
 
-Welcome to GitHub profile! I'm a passionate developer with a strong affinity for the Force. Feel free to explore my repositories and join me on my coding journey across the galaxy.
-<a href="https://app.daily.dev/shoaibwaqar665"><img src="https://api.daily.dev/devcards/v2/mUdXS30yFXnwImnFFsPKG.png?type=default&r=28a" width="356" alt="shoaibwaqar665's Dev Card"/></a>
+Senior Backend Engineer focused on building **scalable, reliable, and maintainable systems**.  
+Experienced in **distributed services, API design, data-intensive systems, and automation**.
 
-### Skills and Tools
+I prioritize correctness, performance, and long-term maintainability. Most of my work involves designing backend systems that operate under real production constraints.
 
-- Next JS / React JS
-- Node JS
-- Go Lang
-- Mind Control (Git, GitHub)
+---
 
-### GitHub Stats
+## Core Expertise
 
-#### Overall Stats
+- Backend system design (monolith → services)
+- High-performance APIs (REST, gRPC)
+- Concurrency and parallelism (Go)
+- Data modeling, indexing, and query optimization
+- Automation, scraping, and reverse engineering
+- Production debugging and reliability
 
-![My Overall GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoaibwaqar665&show_icons=true&theme=dark)
+---
 
-#### Trophies
+## Technologies
 
-![My Trophies](https://github-profile-trophy.vercel.app/?username=shoaibwaqar665&column=3&margin-w=15&margin-h=15&theme=onedark)
+**Languages**
+- Go
+- Python
+- JavaScript (Node.js)
 
-### Contact Me
+**Backend**
+- gRPC, REST
+- PostgreSQL, MySQL
+- Redis
+- Message queues
+- Background workers
 
-You can reach out to me through the following channels:
+**Infrastructure**
+- Linux
+- Docker
+- GitHub Actions
+- Observability & logging
 
-- Email: shoaib.waqar665@gmail.com
+---
+
+## GitHub Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shoaibwaqar665&theme=github-compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoaibwaqar665&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibwaqar665&layout=compact&theme=github_dark)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoaibwaqar665&theme=github_dark)
+
+---
+
+## Engineering Principles
+
+- Design for scale early
+- Optimize for clarity before cleverness
+- Measure before optimizing
+- Automate anything repeatable
+- Prefer boring, proven technology
+
+---
+
+## Contact
+
+- Email: shoaib.waqar665@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/shoaib-waqar-sw665/
-
-May the Force be with you! ✨🚀✨
