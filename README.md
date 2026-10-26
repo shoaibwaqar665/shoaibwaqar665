@@ -4,7 +4,6 @@
 
 I build production web platforms and AI-powered products end to end: Django/DRF backends, Next.js frontends, PostgreSQL databases, and LLM features that turn messy data into useful, reliable workflows. Based in Lahore, Pakistan, working remotely with teams and clients worldwide.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaib.waqar665@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-waqar-sw665/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shoaibwaqar665)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Shoaibwaqar665)
